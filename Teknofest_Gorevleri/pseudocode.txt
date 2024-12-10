@@ -1,0 +1,13 @@
+Normal Takip
+
+Uçak kalkış yapacak
+Görünürde uçak yoksa GPS takibi yapacak
+Eğer varsa Kamera takibi yapacak
+Uçak görüntüden 3 saniye boyunca kaybolursa GPS takibi yapacak
+________________________________________________________________
+
+Hava Savunmalı Takip
+
+Uçak kalkış yapacak
+GeoFence uçuş sınırlarının içinde ve belirtilen dairelerinin dışında ise diğer uçaklara kilitlenecek
+Fakat bu koşulları sağlamıyor ise Kaçış Algoritmasını başlatsın
